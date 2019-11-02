@@ -11,6 +11,7 @@ namespace InitWebFullFramework.Controllers
         public ActionResult Index()
         {
             int a
+
             return View();
         }
 
