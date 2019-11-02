@@ -10,7 +10,8 @@ namespace InitWebFullFramework.Controllers
     {
         public ActionResult Index()
         {
-            int a
+            int a = 0;
+
             return View();
         }
 
