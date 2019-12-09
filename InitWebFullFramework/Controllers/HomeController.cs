@@ -18,6 +18,8 @@ namespace InitWebFullFramework.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page2.";
+
 
             return View();
         }
