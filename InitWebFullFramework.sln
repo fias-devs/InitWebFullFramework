@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitWebFullFramework", "InitWebFullFramework\InitWebFullFramework.csproj", "{4511F2EC-1BDD-44B8-A66E-6554ED70E057}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitWebFullFramework.WebAPI", "InitWebFullFramework.WebAPI\InitWebFullFramework.WebAPI.csproj", "{143CA31B-DAAA-4B4A-B27A-ADC62521D97D}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4511F2EC-1BDD-44B8-A66E-6554ED70E057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4511F2EC-1BDD-44B8-A66E-6554ED70E057}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4511F2EC-1BDD-44B8-A66E-6554ED70E057}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4511F2EC-1BDD-44B8-A66E-6554ED70E057}.Release|Any CPU.Build.0 = Release|Any CPU
 		{143CA31B-DAAA-4B4A-B27A-ADC62521D97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{143CA31B-DAAA-4B4A-B27A-ADC62521D97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{143CA31B-DAAA-4B4A-B27A-ADC62521D97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
