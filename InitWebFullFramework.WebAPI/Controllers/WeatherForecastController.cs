@@ -13,7 +13,7 @@ namespace InitWebFullFramework.WebAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Mahe Car", "Mahe Car ver2", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Mahe Car", "Mahe Car ver2123", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
